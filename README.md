@@ -4,8 +4,14 @@
 <p align="left"> <a href="https://twitter.com/msbivens_" target="blank"><img src="https://img.shields.io/twitter/follow/msbivens_?logo=twitter&style=for-the-badge" alt="msbivens_" /></a> </p>
 
 - 🔭 I’m currently working on [Bootcamp AJAX](https://github.com/MSBivens/bootcamp_ajax)
+
 - 🔭 I’m currently working on [Personal Portfolio Website](https://github.com/MSBivens/personal_portfolio_website)
+
 - 🔭 I’m currently working on [Doors vs Wheels](https://github.com/MSBivens/doors_vs_wheels)
+
+- 👯 I’m looking to collaborate on **anything, let's talk and see what we can build together!**
+
+- 🤝 I’m looking for help with **finding web3 professionals to talk with about their roles.**
 
 - 🌱 I’m currently learning **JavaScript, Solidity**
 
@@ -31,3 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msbivens&show_icons=true&locale=en" alt="msbivens" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msbivens&" alt="msbivens" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msbivens" alt="msbivens" /></a> </p>
