@@ -3,13 +3,17 @@
 
 <p align="left"> <a href="https://twitter.com/msbivens_" target="blank"><img src="https://img.shields.io/twitter/follow/msbivens_?logo=twitter&style=for-the-badge" alt="msbivens_" /></a> </p>
 
-- 🔭 I’m currently working on [Bootcamp AJAX](https://github.com/MSBivens/bootcamp_ajax)
+- 🔭 I’m currently working on a project for the Chainlink Spring 2022 Hackathon, to be revealed soon!
+
+- 🔭 I’m currently working on [Learn Web3](https://github.com/MSBivens/learn_web3)
+
+- 🔭 I’m currently working on [Bootcamp Algorithms](https://github.com/MSBivens/bootcamp_algorithms)
 
 - 🔭 I’m currently working on [Personal Portfolio Website](https://github.com/MSBivens/personal_portfolio_website)
 
 - 🔭 I’m currently working on [Doors vs Wheels](https://github.com/MSBivens/doors_vs_wheels)
 
-- 👯 I’m looking to collaborate on **anything, let's talk and see what we can build together!**
+- 👯 I’m looking to collaborate on **portfolio projects with web3 technology.**
 
 - 🤝 I’m looking for help with **finding web3 professionals to talk with about their roles.**
 
