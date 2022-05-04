@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mike Bivens</h1>
-<h3 align="center">I am a JR dev, looking to work with web3 technology!</h3>
+<h3 align="center">I am a jr dev, looking to become a smart contract developer!</h3>
 
 <p align="left"> <a href="https://twitter.com/msbivens_" target="blank"><img src="https://img.shields.io/twitter/follow/msbivens_?logo=twitter&style=for-the-badge" alt="msbivens_" /></a> </p>
 
