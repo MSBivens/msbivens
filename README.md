@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Solidity**
 
-- 👨‍💻 All of my projects are available at [www.msbivens.com](www.msbivens.com)
+- 👨‍💻 All of my projects are available at [www.msbivens.com](https://www.msbivens.com/)
 
 - 📝 I regularly write articles on [https://www.publish0x.com/@senpaix](https://www.publish0x.com/@senpaix)
 
