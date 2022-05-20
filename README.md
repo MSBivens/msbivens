@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on a project for the Chainlink Spring 2022 Hackathon, to be revealed soon!
 
-- 🔭 I’m currently working on [Learn Web3](https://github.com/MSBivens/learn_web3)
-
 - 🔭 I’m currently working on [Bootcamp Algorithms](https://github.com/MSBivens/bootcamp_algorithms)
 
 - 🔭 I’m currently working on [Personal Portfolio Website](https://github.com/MSBivens/personal_portfolio_website)
