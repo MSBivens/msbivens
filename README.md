@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [Bootcamp Algorithms](https://github.com/MSBivens/bootcamp_algorithms)
 
-- 🔭 I’m currently working on [Personal Portfolio Website](https://github.com/MSBivens/personal_portfolio_website)
-
 - 🔭 I’m currently working on [Doors vs Wheels](https://github.com/MSBivens/doors_vs_wheels)
 
 - 👯 I’m looking to collaborate on **portfolio projects with web3 technology.**
