@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on a project for the Chainlink Spring 2022 Hackathon, to be revealed soon!
 
+- 🔭 I’m currently working on [Group Project Team Lexi](https://github.com/MSBivens/Group_Project_Team_Lexi)
+
 - 🔭 I’m currently working on [Bootcamp Algorithms](https://github.com/MSBivens/bootcamp_algorithms)
 
 - 🔭 I’m currently working on [Doors vs Wheels](https://github.com/MSBivens/doors_vs_wheels)
