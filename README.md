@@ -7,7 +7,9 @@
 
 - 🔭 I’m currently working on [Group Project Team Lexi](https://github.com/MSBivens/Group_Project_Team_Lexi)
 
-- 🔭 I’m currently working on [Bootcamp Algorithms](https://github.com/MSBivens/bootcamp_algorithms)
+- 🔭 I’m currently working on [Learn Web3 DAO's Tracks](https://www.learnweb3.io/)
+
+- 🔭 I’m currently working on [Alchemy's Road to Web3](https://www.youtube.com/playlist?list=PLMj8NvODurfEYLsuiClgikZBGDfhwdcXF)
 
 - 🔭 I’m currently working on [Doors vs Wheels](https://github.com/MSBivens/doors_vs_wheels)
 
