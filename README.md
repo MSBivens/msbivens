@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on a project for the Chainlink Spring 2022 Hackathon, to be revealed soon!
 
-- 🔭 I’m currently working on [Group Project Team Lexi](https://github.com/MSBivens/Group_Project_Team_Lexi)
-
 - 🔭 I’m currently working on [Learn Web3 DAO's Tracks](https://www.learnweb3.io/)
 
 - 🔭 I’m currently working on [Alchemy's Road to Web3](https://www.youtube.com/playlist?list=PLMj8NvODurfEYLsuiClgikZBGDfhwdcXF)
