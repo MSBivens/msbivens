@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/msbivens_" target="blank"><img src="https://img.shields.io/twitter/follow/msbivens_?logo=twitter&style=for-the-badge" alt="msbivens_" /></a> </p>
 
-- 🔭 I’m currently working on a project for the Chainlink Spring 2022 Hackathon, to be revealed soon!
-
 - 🔭 I’m currently working on [Learn Web3 DAO's Tracks](https://www.learnweb3.io/)
 
 - 🔭 I’m currently working on [Alchemy's Road to Web3](https://www.youtube.com/playlist?list=PLMj8NvODurfEYLsuiClgikZBGDfhwdcXF)
