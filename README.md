@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on [Alchemy's Road to Web3](https://www.youtube.com/playlist?list=PLMj8NvODurfEYLsuiClgikZBGDfhwdcXF)
 
-- 🔭 I’m currently working on [Doors vs Wheels](https://github.com/MSBivens/doors_vs_wheels)
-
 - 👯 I’m looking to collaborate on **portfolio projects with web3 technology.**
 
 - 🤝 I’m looking for help with **finding web3 professionals to talk with about their roles.**
