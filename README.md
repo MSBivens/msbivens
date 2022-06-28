@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mike Bivens</h1>
 <h3 align="center">I am a jr dev, looking to become a smart contract developer!</h3>
 
-<p align="left"> <a href="https://twitter.com/msbivens_" target="blank"><img src="https://img.shields.io/twitter/follow/msbivens_?logo=twitter&style=for-the-badge" alt="msbivens_" /></a> </p>
-
 - 🔭 I’m currently working on [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=7262s)
 
 - 🔭 I’m currently working on [Learn Web3 DAO's Tracks](https://www.learnweb3.io/)
