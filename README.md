@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mike Bivens</h1>
 <h3 align="center">I am a jr dev, looking to become a smart contract developer!</h3>
 
-- 🔭 I’m currently working on [Learn Web3 DAO's Tracks](https://www.learnweb3.io/)
-
 - 🔭 I’m currently working on [Alchemy's Road to Web3](https://www.youtube.com/playlist?list=PLMj8NvODurfEYLsuiClgikZBGDfhwdcXF)
 
 - 👯 I’m looking to collaborate on **portfolio projects with web3 technology.**
