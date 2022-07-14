@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on building [WAGMI](https://mirror.xyz/0xc46C2e614c3Ec2B679961caf095204FbcFA23fAC/JyHpK5v72pLQ6tzhRweuTHfguaV7-ZCXq7ht-q2ufQg) Squad's Website & DAO
 
-- 🔭 I’m currently working on [Alchemy's Road to Web3](https://www.youtube.com/playlist?list=PLMj8NvODurfEYLsuiClgikZBGDfhwdcXF)
-
 - 👯 I’m looking to collaborate on **portfolio projects with web3 technology.**
 
 - 🤝 I’m looking for help with **finding web3 professionals to talk with about their roles.**
