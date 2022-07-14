@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mike Bivens</h1>
 <h3 align="center">I am a jr dev, looking to become a smart contract developer!</h3>
 
-- 🔭 I’m currently working on building [WAGMI](https://mirror.xyz/0xc46C2e614c3Ec2B679961caf095204FbcFA23fAC/JyHpK5v72pLQ6tzhRweuTHfguaV7-ZCXq7ht-q2ufQg) Squad's Website & DAO
+- 🔭 I’m currently working on building [WAGMI](https://mirror.xyz/0xc46C2e614c3Ec2B679961caf095204FbcFA23fAC/JyHpK5v72pLQ6tzhRweuTHfguaV7-ZCXq7ht-q2ufQg) Squad's [Website](https://github.com/MSBivens/wagmi-squad-website), DAO, access token, & reputation token.
 
 - 👯 I’m looking to collaborate on **portfolio projects with web3 technology.**
 
