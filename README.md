@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mike Bivens</h1>
-<h3 align="center">I am a jr dev, looking to become a smart contract developer!</h3>
+<h3 align="center">I'm a blockend dev, currently focused on DAOs and on-chain data</h3>
 
-- 🔭 I’m currently working on building [WAGMI](https://mirror.xyz/0xc46C2e614c3Ec2B679961caf095204FbcFA23fAC/JyHpK5v72pLQ6tzhRweuTHfguaV7-ZCXq7ht-q2ufQg) Squad's [Website](https://github.com/MSBivens/wagmi-squad-website), DAO, access token, & reputation token.
+- 🔭 I’m currently working on building [WAGMI](https://mirror.xyz/0xc46C2e614c3Ec2B679961caf095204FbcFA23fAC/JyHpK5v72pLQ6tzhRweuTHfguaV7-ZCXq7ht-q2ufQg) Squad's [Website](https://github.com/MSBivens/wagmi-squad-website), DAO, and its necessary components.
 
 - 👯 I’m looking to collaborate on **portfolio projects with web3 technology.**
 
-- 🤝 I’m looking for help with **finding web3 professionals to talk with about their roles.**
+- 🤝 I’m looking for help with **DAO system design.**
 
 - 🌱 I’m currently learning **JavaScript, Solidity**
 
@@ -15,7 +15,7 @@
 
 - 📝 I also write on [Mirror](https://mirror.xyz/0xc46C2e614c3Ec2B679961caf095204FbcFA23fAC) and [Medium](https://medium.com/@msbivens_)
 
-- 💬 Ask me about **web3**
+- 💬 Ask me about **DAOs as the future of work**
 
 - 📫 How to reach me **mikebiv95@gmail.com**
 
