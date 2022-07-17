@@ -26,9 +26,11 @@
 </p>
 
 <h3 align="left">Tech Stack:</h3>
-<p align="left"> <a href="https://github.com/MSBivens/msbivens/blob/master/tech-stack-github.png">
-    <img src="MSBivens/tech-stack-github.png" alt="Tech Stack">
-  </a> </p>
+<p align="left"> 
+    <a href="https://github.com/MSBivens/msbivens/blob/master/tech-stack-github.png">
+        <img src="tech-stack-github.png" alt="Tech Stack">
+    </a> 
+</p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msbivens&show_icons=true&locale=en&layout=compact" alt="msbivens" /></p> -->
 
