@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [www.msbivens.com](https://www.msbivens.com/)
 
-- 📝 I reflect on my journey to being a Web3 Dev here [https://www.publish0x.com/@senpaix](https://www.publish0x.com/@senpaix)
+- 📝 I reflect on my journey to being a Web3 Dev on [Publish0x](https://www.publish0x.com/@senpaix)
 
 - 📝 I also write on [Mirror](https://mirror.xyz/0xc46C2e614c3Ec2B679961caf095204FbcFA23fAC) and [Medium](https://medium.com/@msbivens_)
 
