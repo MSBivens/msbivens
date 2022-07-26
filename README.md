@@ -3,6 +3,10 @@
 
 - 🔭 I’m currently working on building [WAGMI](https://mirror.xyz/0xc46C2e614c3Ec2B679961caf095204FbcFA23fAC/JyHpK5v72pLQ6tzhRweuTHfguaV7-ZCXq7ht-q2ufQg) Squad's [Website](https://github.com/MSBivens/wagmi-squad-website), DAO, and its necessary components.
 
+- 🔭 I’m currently working on building [community-funding](https://github.com/MSBivens/community-funding)
+
+- 🔭 I’m currently working on building [TheDrop](https://github.com/MSBivens/thedrop-website)
+
 - 👯 I’m looking to collaborate on **portfolio projects with web3 technology.**
 
 - 🤝 I’m looking for help with **DAO system design.**
