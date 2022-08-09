@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on building [TheDrop](https://github.com/MSBivens/thedrop-website)
 
-- 🔭 I’m currently working on building [Road to Web3 Analytics](https://github.com/MSBivens/RW3-PoK-Analytics)
+- 🔭 [Temporarily Halted] I’m currently working on building [Road to Web3 Analytics](https://github.com/MSBivens/RW3-PoK-Analytics)
 
 - 👯 I’m looking to collaborate on **portfolio projects with web3 technology.**
 
