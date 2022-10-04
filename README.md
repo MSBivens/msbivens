@@ -4,15 +4,13 @@
 
 - 🔭 I’m currently working on building [Token Boards](https://github.com/MSBivens/token-boards)
 
-- 🔭 I’m working on building [TheDrop](https://github.com/MSBivens/thedrop-website)
+- 🔭 I’m currently working on building [TheDrop](https://github.com/MSBivens/thedrop-website)
 
-<h3>Backburner Projects</h3>
+- 🔭 (Backburner Project) I’m working on building [WAGMI](https://mirror.xyz/0xc46C2e614c3Ec2B679961caf095204FbcFA23fAC/JyHpK5v72pLQ6tzhRweuTHfguaV7-ZCXq7ht-q2ufQg) Squad's [Website](https://github.com/MSivens/wagmi-squad-website), DAO, and its necessary components. 
 
-- 🔭 I’m working on building [WAGMI](https://mirror.xyz/0xc46C2e614c3Ec2B679961caf095204FbcFA23fAC/JyHpK5v72pLQ6tzhRweuTHfguaV7-ZCXq7ht-q2ufQg) Squad's [Website](https://github.com/MSivens/wagmi-squad-website), DAO, and its necessary components. 
+- 🔭 (Backburner Project) I’m working on building [community-funding](https://github.com/MSBivens/community-funding)
 
-- 🔭 I’m working on building [community-funding](https://github.com/MSBivens/community-funding)
-
-- 🔭 I’m working on building [Road to Web3 Analytics](https://github.com/MSBivens/RW3-PoK-Analytics)
+- 🔭 (Backburner Project) I’m working on building [Road to Web3 Analytics](https://github.com/MSBivens/RW3-PoK-Analytics)
 
 - 👯 I’m looking to collaborate on **exploring web3 via content production**
 
