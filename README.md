@@ -1,27 +1,30 @@
 <h1 align="center">Hi 👋, I'm Mike Bivens</h1>
 <h3 align="center">I'm a blockend dev, currently focused on DAOs and on-chain data</h3>
 
-- 🔭 I’m currently working on building [WAGMI](https://mirror.xyz/0xc46C2e614c3Ec2B679961caf095204FbcFA23fAC/JyHpK5v72pLQ6tzhRweuTHfguaV7-ZCXq7ht-q2ufQg) Squad's [Website](https://github.com/MSBivens/wagmi-squad-website), DAO, and its necessary components.
 
-- 🔭 I’m currently working on building [Token Gated Job Board](https://github.com/MSBivens/token-gated-job-board)
+- 🔭 I’m currently working on building [Token Boards](https://github.com/MSBivens/token-boards)
 
-- 🔭 I’m currently working on building [community-funding](https://github.com/MSBivens/community-funding)
+- 🔭 I’m working on building [TheDrop](https://github.com/MSBivens/thedrop-website)
 
-- 🔭 I’m currently working on building [TheDrop](https://github.com/MSBivens/thedrop-website)
+<h3>Backburner Projects</h3>
 
-- 🔭 I’m currently working on building [Road to Web3 Analytics](https://github.com/MSBivens/RW3-PoK-Analytics)
+- 🔭 I’m working on building [WAGMI](https://mirror.xyz/0xc46C2e614c3Ec2B679961caf095204FbcFA23fAC/JyHpK5v72pLQ6tzhRweuTHfguaV7-ZCXq7ht-q2ufQg) Squad's [Website](https://github.com/MSivens/wagmi-squad-website), DAO, and its necessary components. 
 
-- 👯 I’m looking to collaborate on **portfolio projects with web3 technology.**
+- 🔭 I’m working on building [community-funding](https://github.com/MSBivens/community-funding)
 
-- 🤝 I’m looking for help with **DAO system design.**
+- 🔭 I’m working on building [Road to Web3 Analytics](https://github.com/MSBivens/RW3-PoK-Analytics)
 
-- 🌱 I’m currently learning **JavaScript, Solidity**
+- 👯 I’m looking to collaborate on **exploring web3 via content production**
+
+- 🤝 I’m looking for help with **DAO system design**
+
+- 🌱 I’m currently learning **TypeScript & advanced NextJS materials**
 
 - 👨‍💻 All of my projects are available at [www.msbivens.com](https://www.msbivens.com/)
 
-- 📝 I reflect on my journey to being a Web3 Dev on [Publish0x](https://www.publish0x.com/@senpaix)
+- 📝 I write on [Mirror](https://mirror.xyz/0xc46C2e614c3Ec2B679961caf095204FbcFA23fAC) and [Medium](https://medium.com/@msbivens_)
 
-- 📝 I also write on [Mirror](https://mirror.xyz/0xc46C2e614c3Ec2B679961caf095204FbcFA23fAC) and [Medium](https://medium.com/@msbivens_)
+- 📝 I previously reflected weekly on my journey to being a Web3 Dev on [Publish0x](https://www.publish0x.com/@senpaix)
 
 - 💬 Ask me about **DAOs as the future of work**
 
@@ -43,7 +46,5 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msbivens&show_icons=true&locale=en&layout=compact" alt="msbivens" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msbivens&show_icons=true&locale=en" alt="msbivens" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msbivens&" alt="msbivens" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msbivens" alt="msbivens" /></a> </p>
