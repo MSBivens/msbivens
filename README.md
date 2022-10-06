@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mike Bivens</h1>
-<h3 align="center">I'm a blockend dev, currently focused on DAOs and on-chain data</h3>
+<h3 align="center">I'm a blockend dev, currently BUIDLing through the crypto winter</h3>
 
 
 - 🔭 I’m currently working on building [Token Boards](https://github.com/MSBivens/token-boards)
