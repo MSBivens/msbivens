@@ -2,7 +2,7 @@
 <h3 align="center">I'm a web technician at the University of Idaho and Cyber Security Management Student!</h3>
 
 
-- 🔭 I’m currently working on building [Nude Club](https://github.com/NudeClub)
+- 🔭 I’m currently working on building Lorcana Stats
 
 - 👯 I’m looking to collaborate on **hackathon projects**
 
