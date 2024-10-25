@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Michael Bivens</h1>
-<h3 align="center">I'm a web technician at the University of Idaho and Cyber Security Management Student!</h3>
+<h3 align="center">I'm a web technician at the University of Idaho and Software Engineering Student!</h3>
 
 
-- 🔭 I’m currently working on building Lorcana Stats
+- 🔭 I’m currently working on rebuilding a portfolio and managing some live sites.
 
-- 👯 I’m looking to collaborate on **hackathon projects**
+- 👯 I’m looking to collaborate on **something fun**
 
-- 🌱 I’m currently upskilling **Python**
+- 🌱 I’m currently upskilling **NextJS**
 
 - 👨‍💻 You can find my website on [www.msbivens.com](https://www.msbivens.com/)
 
